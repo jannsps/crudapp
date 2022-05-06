@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jannsps/crudapp.git/static/css/main.6f736c7d.css",
+    "main.js": "/jannsps/crudapp.git/static/js/main.a36b7228.js",
+    "index.html": "/jannsps/crudapp.git/index.html",
+    "main.6f736c7d.css.map": "/jannsps/crudapp.git/static/css/main.6f736c7d.css.map",
+    "main.a36b7228.js.map": "/jannsps/crudapp.git/static/js/main.a36b7228.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f736c7d.css",
+    "static/js/main.a36b7228.js"
+  ]
+}
